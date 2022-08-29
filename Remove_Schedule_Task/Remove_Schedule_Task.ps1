@@ -1,1 +1,0 @@
-﻿Unregister-ScheduledTask -TaskName InstallUpdates -Confirm:$false

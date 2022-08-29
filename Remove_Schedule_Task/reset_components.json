@@ -1,5 +1,0 @@
-{
-  "puppet_task_version": 1,
-  "supports_noop": false,
-  "description": "This task will reset All the WSUS components in the server,rename the Distribution Folder
-Remove the WSUS registry values, and reboot the server"
