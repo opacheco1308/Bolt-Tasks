@@ -1,0 +1,4 @@
+{
+  "puppet_task_version": 1,
+  "supports_noop": false,
+  "description": "Refresh the windows update,then update the Server."
